@@ -1,0 +1,2463 @@
+
+#######################################################################
+Please cite the following paper when using nnU-Net:
+Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211.
+#######################################################################
+
+There are 409 cases in the source folder
+I am process 0 out of 1 (max process ID is 0, we start counting with 0!)
+There are 409 cases that I would like to predict
+
+Predicting 19_00000:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s] 50%|█████     | 1/2 [00:00<00:00,  1.41it/s]100%|██████████| 2/2 [00:00<00:00,  2.69it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00000
+
+Predicting 19_00058:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.66it/s]100%|██████████| 2/2 [00:00<00:00, 19.63it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00058
+
+Predicting 19_00116:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.68it/s]100%|██████████| 2/2 [00:00<00:00, 19.65it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00116
+
+Predicting 19_00174:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.62it/s]100%|██████████| 2/2 [00:00<00:00, 19.58it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00174
+
+Predicting 19_00232:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.64it/s]100%|██████████| 2/2 [00:00<00:00, 19.61it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00232
+
+Predicting 19_00270:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.65it/s]100%|██████████| 2/2 [00:00<00:00, 19.62it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00270
+
+Predicting 19_00308:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.67it/s]100%|██████████| 2/2 [00:00<00:00, 19.64it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00308
+
+Predicting 19_00346:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.92it/s]100%|██████████| 2/2 [00:00<00:00, 19.90it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00346
+
+Predicting 19_00384:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.89it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00384
+
+Predicting 19_00419:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00419
+
+Predicting 19_00454:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00454
+
+Predicting 19_00488:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.88it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00488
+
+Predicting 19_00523:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.90it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00523
+
+Predicting 19_00558:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.92it/s]100%|██████████| 2/2 [00:00<00:00, 19.90it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00558
+
+Predicting 19_00594:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00594
+
+Predicting 19_00629:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00629
+
+Predicting 19_00664:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00664
+
+Predicting 19_00766:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00766
+
+Predicting 19_00869:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00869
+
+Predicting 19_00971:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.88it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_00971
+
+Predicting 19_01073:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01073
+
+Predicting 19_01164:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01164
+
+Predicting 19_01254:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01254
+
+Predicting 19_01345:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01345
+
+Predicting 19_01435:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01435
+
+Predicting 19_01505:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01505
+
+Predicting 19_01574:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01574
+
+Predicting 19_01644:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01644
+
+Predicting 19_01713:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01713
+
+Predicting 19_01771:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01771
+
+Predicting 19_01829:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01829
+
+Predicting 19_01886:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01886
+
+Predicting 19_01944:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.88it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]
+sending off prediction to background worker for resampling and export
+done with 19_01944
+
+Predicting 19_02040:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.90it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]
+sending off prediction to background worker for resampling and export
+done with 19_02040
+
+Predicting 19_02136:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_02136
+
+Predicting 19_02232:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_02232
+
+Predicting 19_02328:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_02328
+
+Predicting 19_02410:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_02410
+
+Predicting 19_02492:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_02492
+
+Predicting 19_02573:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_02573
+
+Predicting 19_02655:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.89it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]
+sending off prediction to background worker for resampling and export
+done with 19_02655
+
+Predicting 19_02788:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.89it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]
+sending off prediction to background worker for resampling and export
+done with 19_02788
+
+Predicting 19_02921:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.89it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]
+sending off prediction to background worker for resampling and export
+done with 19_02921
+
+Predicting 19_03053:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03053
+
+Predicting 19_03186:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03186
+
+Predicting 19_03274:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03274
+
+Predicting 19_03361:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.88it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03361
+
+Predicting 19_03449:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03449
+
+Predicting 19_03536:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03536
+
+Predicting 19_03570:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03570
+
+Predicting 19_03605:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03605
+
+Predicting 19_03639:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03639
+
+Predicting 19_03673:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03673
+
+Predicting 19_03711:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03711
+
+Predicting 19_03749:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03749
+
+Predicting 19_03786:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03786
+
+Predicting 19_03824:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03824
+
+Predicting 19_03968:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_03968
+
+Predicting 19_04112:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_04112
+
+Predicting 19_04256:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_04256
+
+Predicting 19_04400:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_04400
+
+Predicting 19_04513:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_04513
+
+Predicting 19_04625:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_04625
+
+Predicting 19_04738:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_04738
+
+Predicting 19_04850:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]
+sending off prediction to background worker for resampling and export
+done with 19_04850
+
+Predicting 19_04898:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_04898
+
+Predicting 19_04945:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_04945
+
+Predicting 19_04993:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_04993
+
+Predicting 19_05040:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05040
+
+Predicting 19_05066:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05066
+
+Predicting 19_05092:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05092
+
+Predicting 19_05118:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05118
+
+Predicting 19_05144:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05144
+
+Predicting 19_05213:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05213
+
+Predicting 19_05283:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]100%|██████████| 2/2 [00:00<00:00, 19.69it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05283
+
+Predicting 19_05352:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05352
+
+Predicting 19_05421:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05421
+
+Predicting 19_05459:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05459
+
+Predicting 19_05498:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05498
+
+Predicting 19_05536:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05536
+
+Predicting 19_05574:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05574
+
+Predicting 19_05593:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05593
+
+Predicting 19_05612:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05612
+
+Predicting 19_05630:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05630
+
+Predicting 19_05649:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.67it/s]100%|██████████| 2/2 [00:00<00:00, 19.60it/s]
+sending off prediction to background worker for resampling and export
+done with 19_05649
+
+Predicting 19_06041:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_06041
+
+Predicting 19_06433:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_06433
+
+Predicting 19_06824:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_06824
+
+Predicting 19_07216:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_07216
+
+Predicting 19_07301:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_07301
+
+Predicting 19_07387:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_07387
+
+Predicting 19_07472:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_07472
+
+Predicting 19_07557:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_07557
+
+Predicting 19_07619:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_07619
+
+Predicting 19_07680:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_07680
+
+Predicting 19_07742:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_07742
+
+Predicting 19_07803:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_07803
+
+Predicting 19_07853:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.88it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]
+sending off prediction to background worker for resampling and export
+done with 19_07853
+
+Predicting 19_07903:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]
+sending off prediction to background worker for resampling and export
+done with 19_07903
+
+Predicting 19_07953:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.70it/s]100%|██████████| 2/2 [00:00<00:00, 19.67it/s]
+sending off prediction to background worker for resampling and export
+done with 19_07953
+
+Predicting 19_08003:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_08003
+
+Predicting 19_08214:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_08214
+
+Predicting 19_08425:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_08425
+
+Predicting 19_08635:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_08635
+
+Predicting 19_08846:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_08846
+
+Predicting 19_08919:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]
+sending off prediction to background worker for resampling and export
+done with 19_08919
+
+Predicting 19_08993:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_08993
+
+Predicting 19_09066:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_09066
+
+Predicting 19_09139:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_09139
+
+Predicting 19_09195:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_09195
+
+Predicting 19_09251:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_09251
+
+Predicting 19_09307:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_09307
+
+Predicting 19_09363:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]
+sending off prediction to background worker for resampling and export
+done with 19_09363
+
+Predicting 19_09399:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_09399
+
+Predicting 19_09435:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_09435
+
+Predicting 19_09470:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_09470
+
+Predicting 19_09506:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]100%|██████████| 2/2 [00:00<00:00, 19.68it/s]
+sending off prediction to background worker for resampling and export
+done with 19_09506
+
+Predicting 19_09879:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_09879
+
+Predicting 19_10252:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_10252
+
+Predicting 19_10624:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_10624
+
+Predicting 19_10997:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]100%|██████████| 2/2 [00:00<00:00, 19.69it/s]
+sending off prediction to background worker for resampling and export
+done with 19_10997
+
+Predicting 19_11062:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.88it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11062
+
+Predicting 19_11127:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11127
+
+Predicting 19_11191:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11191
+
+Predicting 19_11256:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11256
+
+Predicting 19_11308:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11308
+
+Predicting 19_11360:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11360
+
+Predicting 19_11411:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11411
+
+Predicting 19_11463:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11463
+
+Predicting 19_11495:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11495
+
+Predicting 19_11526:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11526
+
+Predicting 19_11558:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11558
+
+Predicting 19_11589:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11589
+
+Predicting 19_11827:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_11827
+
+Predicting 19_12064:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12064
+
+Predicting 19_12302:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12302
+
+Predicting 19_12539:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12539
+
+Predicting 19_12553:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]100%|██████████| 2/2 [00:00<00:00, 19.69it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12553
+
+Predicting 19_12567:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12567
+
+Predicting 19_12581:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12581
+
+Predicting 19_12595:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]100%|██████████| 2/2 [00:00<00:00, 19.70it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12595
+
+Predicting 19_12617:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12617
+
+Predicting 19_12639:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12639
+
+Predicting 19_12660:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12660
+
+Predicting 19_12682:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12682
+
+Predicting 19_12722:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12722
+
+Predicting 19_12763:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12763
+
+Predicting 19_12803:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12803
+
+Predicting 19_12843:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_12843
+
+Predicting 19_13083:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_13083
+
+Predicting 19_13322:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_13322
+
+Predicting 19_13562:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_13562
+
+Predicting 19_13801:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_13801
+
+Predicting 19_13852:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_13852
+
+Predicting 19_13902:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_13902
+
+Predicting 19_13953:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_13953
+
+Predicting 19_14003:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_14003
+
+Predicting 19_14425:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_14425
+
+Predicting 19_14848:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_14848
+
+Predicting 19_15270:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_15270
+
+Predicting 19_15692:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_15692
+
+Predicting 19_15721:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_15721
+
+Predicting 19_15750:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_15750
+
+Predicting 19_15779:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_15779
+
+Predicting 19_15808:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_15808
+
+Predicting 19_15883:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_15883
+
+Predicting 19_15957:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_15957
+
+Predicting 19_16032:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_16032
+
+Predicting 19_16106:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_16106
+
+Predicting 19_16168:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_16168
+
+Predicting 19_16230:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_16230
+
+Predicting 19_16292:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_16292
+
+Predicting 19_16354:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_16354
+
+Predicting 19_16651:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_16651
+
+Predicting 19_16948:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_16948
+
+Predicting 19_17244:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.64it/s]100%|██████████| 2/2 [00:00<00:00, 19.61it/s]
+sending off prediction to background worker for resampling and export
+done with 19_17244
+
+Predicting 19_17541:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_17541
+
+Predicting 19_17589:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.67it/s]100%|██████████| 2/2 [00:00<00:00, 19.61it/s]
+sending off prediction to background worker for resampling and export
+done with 19_17589
+
+Predicting 19_17637:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_17637
+
+Predicting 19_17684:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_17684
+
+Predicting 19_17732:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]
+sending off prediction to background worker for resampling and export
+done with 19_17732
+
+Predicting 19_17798:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_17798
+
+Predicting 19_17864:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_17864
+
+Predicting 19_17930:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_17930
+
+Predicting 19_17996:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_17996
+
+Predicting 19_18018:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_18018
+
+Predicting 19_18040:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_18040
+
+Predicting 19_18062:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]
+sending off prediction to background worker for resampling and export
+done with 19_18062
+
+Predicting 19_18084:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]100%|██████████| 2/2 [00:00<00:00, 19.67it/s]
+sending off prediction to background worker for resampling and export
+done with 19_18084
+
+Predicting 19_18234:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_18234
+
+Predicting 19_18383:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_18383
+
+Predicting 19_18533:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_18533
+
+Predicting 19_18682:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_18682
+
+Predicting 19_18825:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_18825
+
+Predicting 19_18967:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_18967
+
+Predicting 19_19110:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_19110
+
+Predicting 19_19252:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_19252
+
+Predicting 19_19349:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_19349
+
+Predicting 19_19446:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_19446
+
+Predicting 19_19543:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_19543
+
+Predicting 19_19640:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.70it/s]100%|██████████| 2/2 [00:00<00:00, 19.66it/s]
+sending off prediction to background worker for resampling and export
+done with 19_19640
+
+Predicting 19_19704:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_19704
+
+Predicting 19_19767:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_19767
+
+Predicting 19_19831:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_19831
+
+Predicting 19_19894:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_19894
+
+Predicting 19_19948:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_19948
+
+Predicting 19_20001:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_20001
+
+Predicting 19_20055:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.69it/s]100%|██████████| 2/2 [00:00<00:00, 19.66it/s]
+sending off prediction to background worker for resampling and export
+done with 19_20055
+
+Predicting 19_20108:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_20108
+
+Predicting 19_20377:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_20377
+
+Predicting 19_20646:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_20646
+
+Predicting 19_20914:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_20914
+
+Predicting 19_21183:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]100%|██████████| 2/2 [00:00<00:00, 19.70it/s]
+sending off prediction to background worker for resampling and export
+done with 19_21183
+
+Predicting 19_21483:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_21483
+
+Predicting 19_21784:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_21784
+
+Predicting 19_22084:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22084
+
+Predicting 19_22384:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22384
+
+Predicting 19_22419:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22419
+
+Predicting 19_22454:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22454
+
+Predicting 19_22488:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22488
+
+Predicting 19_22523:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s] 50%|█████     | 1/2 [00:00<00:00,  5.25it/s]100%|██████████| 2/2 [00:00<00:00,  7.88it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22523
+
+Predicting 19_22575:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22575
+
+Predicting 19_22627:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22627
+
+Predicting 19_22678:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22678
+
+Predicting 19_22730:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]100%|██████████| 2/2 [00:00<00:00, 19.69it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22730
+
+Predicting 19_22794:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22794
+
+Predicting 19_22858:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22858
+
+Predicting 19_22921:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22921
+
+Predicting 19_22985:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_22985
+
+Predicting 19_23062:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.70it/s]
+sending off prediction to background worker for resampling and export
+done with 19_23062
+
+Predicting 19_23139:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_23139
+
+Predicting 19_23216:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_23216
+
+Predicting 19_23293:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_23293
+
+Predicting 19_23455:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_23455
+
+Predicting 19_23617:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_23617
+
+Predicting 19_23778:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]100%|██████████| 2/2 [00:00<00:00, 19.68it/s]
+sending off prediction to background worker for resampling and export
+done with 19_23778
+
+Predicting 19_23940:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_23940
+
+Predicting 19_23989:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]100%|██████████| 2/2 [00:00<00:00, 19.69it/s]
+sending off prediction to background worker for resampling and export
+done with 19_23989
+
+Predicting 19_24038:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]100%|██████████| 2/2 [00:00<00:00, 19.70it/s]
+sending off prediction to background worker for resampling and export
+done with 19_24038
+
+Predicting 19_24087:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_24087
+
+Predicting 19_24136:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_24136
+
+Predicting 19_24195:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]100%|██████████| 2/2 [00:00<00:00, 19.69it/s]
+sending off prediction to background worker for resampling and export
+done with 19_24195
+
+Predicting 19_24253:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_24253
+
+Predicting 19_24312:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_24312
+
+Predicting 19_24370:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]
+sending off prediction to background worker for resampling and export
+done with 19_24370
+
+Predicting 19_24458:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_24458
+
+Predicting 19_24547:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.88it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]
+sending off prediction to background worker for resampling and export
+done with 19_24547
+
+Predicting 19_24635:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_24635
+
+Predicting 19_24723:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_24723
+
+Predicting 19_24873:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_24873
+
+Predicting 19_25023:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_25023
+
+Predicting 19_25173:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_25173
+
+Predicting 19_25323:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_25323
+
+Predicting 19_25555:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_25555
+
+Predicting 19_25787:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]100%|██████████| 2/2 [00:00<00:00, 19.68it/s]
+sending off prediction to background worker for resampling and export
+done with 19_25787
+
+Predicting 19_26019:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]100%|██████████| 2/2 [00:00<00:00, 19.69it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26019
+
+Predicting 19_26251:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26251
+
+Predicting 19_26291:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26291
+
+Predicting 19_26331:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]100%|██████████| 2/2 [00:00<00:00, 19.70it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26331
+
+Predicting 19_26371:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26371
+
+Predicting 19_26411:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26411
+
+Predicting 19_26471:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26471
+
+Predicting 19_26532:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26532
+
+Predicting 19_26592:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26592
+
+Predicting 19_26652:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]100%|██████████| 2/2 [00:00<00:00, 19.69it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26652
+
+Predicting 19_26721:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26721
+
+Predicting 19_26789:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26789
+
+Predicting 19_26858:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26858
+
+Predicting 19_26926:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_26926
+
+Predicting 19_27112:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_27112
+
+Predicting 19_27298:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_27298
+
+Predicting 19_27483:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_27483
+
+Predicting 19_27669:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_27669
+
+Predicting 19_27882:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_27882
+
+Predicting 19_28094:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_28094
+
+Predicting 19_28307:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_28307
+
+Predicting 19_28519:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_28519
+
+Predicting 19_28581:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_28581
+
+Predicting 19_28643:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_28643
+
+Predicting 19_28705:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_28705
+
+Predicting 19_28767:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_28767
+
+Predicting 19_28817:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_28817
+
+Predicting 19_28868:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_28868
+
+Predicting 19_28918:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_28918
+
+Predicting 19_28968:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_28968
+
+Predicting 19_29035:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_29035
+
+Predicting 19_29101:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]100%|██████████| 2/2 [00:00<00:00, 19.66it/s]
+sending off prediction to background worker for resampling and export
+done with 19_29101
+
+Predicting 19_29168:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_29168
+
+Predicting 19_29234:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_29234
+
+Predicting 19_29377:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_29377
+
+Predicting 19_29519:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_29519
+
+Predicting 19_29662:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_29662
+
+Predicting 19_29804:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_29804
+
+Predicting 19_29986:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_29986
+
+Predicting 19_30168:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30168
+
+Predicting 19_30350:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30350
+
+Predicting 19_30532:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30532
+
+Predicting 19_30564:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30564
+
+Predicting 19_30597:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.65it/s]100%|██████████| 2/2 [00:00<00:00, 19.62it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30597
+
+Predicting 19_30629:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30629
+
+Predicting 19_30661:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30661
+
+Predicting 19_30705:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]100%|██████████| 2/2 [00:00<00:00, 19.67it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30705
+
+Predicting 19_30748:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30748
+
+Predicting 19_30792:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30792
+
+Predicting 19_30835:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30835
+
+Predicting 19_30891:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30891
+
+Predicting 19_30947:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]
+sending off prediction to background worker for resampling and export
+done with 19_30947
+
+Predicting 19_31002:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_31002
+
+Predicting 19_31058:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_31058
+
+Predicting 19_31193:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_31193
+
+Predicting 19_31329:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_31329
+
+Predicting 19_31464:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_31464
+
+Predicting 19_31599:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_31599
+
+Predicting 19_31769:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_31769
+
+Predicting 19_31938:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_31938
+
+Predicting 19_32108:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32108
+
+Predicting 19_32277:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32277
+
+Predicting 19_32309:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32309
+
+Predicting 19_32342:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.88it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32342
+
+Predicting 19_32374:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32374
+
+Predicting 19_32406:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32406
+
+Predicting 19_32461:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32461
+
+Predicting 19_32516:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32516
+
+Predicting 19_32570:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.68it/s]100%|██████████| 2/2 [00:00<00:00, 19.64it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32570
+
+Predicting 19_32625:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32625
+
+Predicting 19_32688:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32688
+
+Predicting 19_32751:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32751
+
+Predicting 19_32814:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32814
+
+Predicting 19_32877:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_32877
+
+Predicting 19_33022:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_33022
+
+Predicting 19_33166:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_33166
+
+Predicting 19_33311:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_33311
+
+Predicting 19_33455:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_33455
+
+Predicting 19_33607:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_33607
+
+Predicting 19_33759:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_33759
+
+Predicting 19_33911:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_33911
+
+Predicting 19_34063:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]100%|██████████| 2/2 [00:00<00:00, 19.69it/s]
+sending off prediction to background worker for resampling and export
+done with 19_34063
+
+Predicting 19_34193:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_34193
+
+Predicting 19_34323:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_34323
+
+Predicting 19_34453:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]
+sending off prediction to background worker for resampling and export
+done with 19_34453
+
+Predicting 19_34583:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_34583
+
+Predicting 19_34670:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_34670
+
+Predicting 19_34756:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_34756
+
+Predicting 19_34843:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_34843
+
+Predicting 19_34929:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_34929
+
+Predicting 19_34975:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_34975
+
+Predicting 19_35021:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35021
+
+Predicting 19_35066:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35066
+
+Predicting 19_35112:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35112
+
+Predicting 19_35152:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35152
+
+Predicting 19_35191:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]100%|██████████| 2/2 [00:00<00:00, 19.67it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35191
+
+Predicting 19_35231:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35231
+
+Predicting 19_35270:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35270
+
+Predicting 19_35332:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35332
+
+Predicting 19_35395:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35395
+
+Predicting 19_35457:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35457
+
+Predicting 19_35519:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35519
+
+Predicting 19_35547:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35547
+
+Predicting 19_35575:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35575
+
+Predicting 19_35602:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.66it/s]100%|██████████| 2/2 [00:00<00:00, 19.60it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35602
+
+Predicting 19_35630:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35630
+
+Predicting 19_35696:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.70it/s]100%|██████████| 2/2 [00:00<00:00, 19.66it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35696
+
+Predicting 19_35763:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35763
+
+Predicting 19_35829:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35829
+
+Predicting 19_35895:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_35895
+
+Predicting 19_36004:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_36004
+
+Predicting 19_36113:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_36113
+
+Predicting 19_36221:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_36221
+
+Predicting 19_36330:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_36330
+
+Predicting 19_36529:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_36529
+
+Predicting 19_36728:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_36728
+
+Predicting 19_36927:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_36927
+
+Predicting 19_37126:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]100%|██████████| 2/2 [00:00<00:00, 19.70it/s]
+sending off prediction to background worker for resampling and export
+done with 19_37126
+
+Predicting 19_37569:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_37569
+
+Predicting 19_38012:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]
+sending off prediction to background worker for resampling and export
+done with 19_38012
+
+Predicting 19_38454:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_38454
+
+Predicting 19_38897:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]
+sending off prediction to background worker for resampling and export
+done with 19_38897
+
+Predicting 19_39043:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]
+sending off prediction to background worker for resampling and export
+done with 19_39043
+
+Predicting 19_39188:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]
+sending off prediction to background worker for resampling and export
+done with 19_39188
+
+Predicting 19_39334:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_39334
+
+Predicting 19_39479:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_39479
+
+Predicting 19_39553:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_39553
+
+Predicting 19_39627:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.61it/s]100%|██████████| 2/2 [00:00<00:00, 19.51it/s]
+sending off prediction to background worker for resampling and export
+done with 19_39627
+
+Predicting 19_39701:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.69it/s]100%|██████████| 2/2 [00:00<00:00, 19.65it/s]
+sending off prediction to background worker for resampling and export
+done with 19_39701
+
+Predicting 19_39775:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.76it/s]100%|██████████| 2/2 [00:00<00:00, 19.71it/s]
+sending off prediction to background worker for resampling and export
+done with 19_39775
+
+Predicting 19_39877:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]
+sending off prediction to background worker for resampling and export
+done with 19_39877
+
+Predicting 19_39978:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.80it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_39978
+
+Predicting 19_40080:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_40080
+
+Predicting 19_40181:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]100%|██████████| 2/2 [00:00<00:00, 19.67it/s]
+sending off prediction to background worker for resampling and export
+done with 19_40181
+
+Predicting 19_40409:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_40409
+
+Predicting 19_40638:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_40638
+
+Predicting 19_40866:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_40866
+
+Predicting 19_41094:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_41094
+
+Predicting 19_41326:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]
+sending off prediction to background worker for resampling and export
+done with 19_41326
+
+Predicting 19_41559:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_41559
+
+Predicting 19_41791:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]
+sending off prediction to background worker for resampling and export
+done with 19_41791
+
+Predicting 19_42023:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_42023
+
+Predicting 19_42322:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.87it/s]100%|██████████| 2/2 [00:00<00:00, 19.84it/s]
+sending off prediction to background worker for resampling and export
+done with 19_42322
+
+Predicting 19_42621:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_42621
+
+Predicting 19_42920:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.85it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_42920
+
+Predicting 19_43219:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]
+sending off prediction to background worker for resampling and export
+done with 19_43219
+
+Predicting 19_43478:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_43478
+
+Predicting 19_43737:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.82it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]
+sending off prediction to background worker for resampling and export
+done with 19_43737
+
+Predicting 19_43996:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.79it/s]100%|██████████| 2/2 [00:00<00:00, 19.74it/s]
+sending off prediction to background worker for resampling and export
+done with 19_43996
+
+Predicting 19_44255:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.78it/s]100%|██████████| 2/2 [00:00<00:00, 19.75it/s]
+sending off prediction to background worker for resampling and export
+done with 19_44255
+
+Predicting 19_44416:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]100%|██████████| 2/2 [00:00<00:00, 19.73it/s]
+sending off prediction to background worker for resampling and export
+done with 19_44416
+
+Predicting 19_44578:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.72it/s]100%|██████████| 2/2 [00:00<00:00, 19.67it/s]
+sending off prediction to background worker for resampling and export
+done with 19_44578
+
+Predicting 19_44739:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.81it/s]100%|██████████| 2/2 [00:00<00:00, 19.77it/s]
+sending off prediction to background worker for resampling and export
+done with 19_44739
+
+Predicting 19_44899:
+perform_everything_on_device: True
+  0%|          | 0/2 [00:00<?, ?it/s]100%|██████████| 2/2 [00:00<00:00, 19.86it/s]100%|██████████| 2/2 [00:00<00:00, 19.83it/s]
+sending off prediction to background worker for resampling and export
+done with 19_44899

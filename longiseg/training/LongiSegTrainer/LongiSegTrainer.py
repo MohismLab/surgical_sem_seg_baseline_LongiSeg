@@ -84,6 +84,8 @@ class LongiSegTrainer(nnUNetTrainerNoLongi):
 
             self.optimizer, self.lr_scheduler = self.configure_optimizers()
             # if ddp, wrap in DDP wrapper
+            # self.is_ddp should stay False
+            print(f"DDP: {self.is_ddp}")
             if self.is_ddp:
                 self.network = torch.nn.SyncBatchNorm.convert_sync_batchnorm(self.network)
                 self.network = DDP(self.network, device_ids=[self.local_rank])

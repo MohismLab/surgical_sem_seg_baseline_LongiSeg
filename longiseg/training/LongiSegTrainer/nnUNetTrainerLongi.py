@@ -72,10 +72,14 @@ class nnUNetTrainerNoLongi(object):
                  device: torch.device = torch.device('cuda')):
 
         self.is_ddp = dist.is_available() and dist.is_initialized()
+        # self.is_ddp should stay False
+        print(f"DDP: {self.is_ddp}")
+        
         self.local_rank = 0 if not self.is_ddp else dist.get_rank()
 
         self.device = device
 
+        
         # print what device we are using
         if self.is_ddp:  # implicitly it's clear that we use cuda in this case
             print(f"I am local rank {self.local_rank}. {device_count()} GPUs are available. The world size is "
@@ -111,8 +115,20 @@ class nnUNetTrainerNoLongi(object):
             if LongiSeg_results is not None else None
         self.output_folder = join(self.output_folder_base, f'fold_{fold}')
 
+
+
+        # logging
+        timestamp = datetime.now()
+        maybe_mkdir_p(self.output_folder)
+        self.log_file = join(self.output_folder, "training_log_%d_%d_%d_%02.0d_%02.0d_%02.0d.txt" %
+                             (timestamp.year, timestamp.month, timestamp.day, timestamp.hour, timestamp.minute,
+                              timestamp.second))
+        self.logger = nnUNetLogger()
+
+
         self.preprocessed_dataset_folder = join(self.preprocessed_dataset_folder_base,
                                                 self.configuration_manager.data_identifier)
+        
         self.dataset_class = None  # -> initialize
         # unlike the previous nnunet folder_with_segs_from_previous_stage is now part of the plans. For now it has to
         # be a different configuration in the same plans
@@ -132,7 +148,9 @@ class nnUNetTrainerNoLongi(object):
         self.probabilistic_oversampling = False
         self.num_iterations_per_epoch = 250
         self.num_val_iterations_per_epoch = 50
-        self.num_epochs = 1000
+        self.num_epochs = 200
+        self.print_to_log_file("Training hyperparameters: in LongiSeg/longiseg/training/LongiSegTrainer/nnUNetTrainerLongi.py")
+        self.print_to_log_file("self.num_epochs = 200")
         self.current_epoch = 0
         self.enable_deep_supervision = True
 
@@ -1062,7 +1080,10 @@ class nnUNetTrainerNoLongi(object):
         else:
             loss_here = np.mean(outputs_collated['loss'])
 
-        global_dc_per_class = [i for i in [2 * i / (2 * i + j + k) for i, j, k in zip(tp, fp, fn)]]
+        # global_dc_per_class = [i for i in [2 * i / (2 * i + j + k) for i, j, k in zip(tp, fp, fn)]]
+        global_dc_per_class = [1.0 if (2 * i + j + k) == 0 else 2 * i / (2 * i + j + k) 
+                               for i, j, k in zip(tp, fp, fn)
+                               ]
         mean_fg_dice = np.nanmean(global_dc_per_class)
         self.logger.log('mean_fg_dice', mean_fg_dice, self.current_epoch)
         self.logger.log('dice_per_class_or_region', global_dc_per_class, self.current_epoch)

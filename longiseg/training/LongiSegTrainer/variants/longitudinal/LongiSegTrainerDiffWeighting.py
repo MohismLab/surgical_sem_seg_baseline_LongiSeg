@@ -3,6 +3,7 @@ import torch
 from longiseg.training.LongiSegTrainer.LongiSegTrainer import LongiSegTrainer
 
 
+# LongiSegTrainerDiffWeighting -> LongiSegTrainer -> nnUNetTrainerNoLongi.hyperparameters
 class LongiSegTrainerDiffWeighting(LongiSegTrainer):
     architecture_class_name = "LongiUNetDiffWeighting"
 

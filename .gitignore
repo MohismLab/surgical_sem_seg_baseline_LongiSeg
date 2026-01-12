@@ -1,3 +1,12 @@
+*.zip
+*.csv
+*.npz
+*.npy
+*.pkl
+*.pth
+*.log
+*.safetensors
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
