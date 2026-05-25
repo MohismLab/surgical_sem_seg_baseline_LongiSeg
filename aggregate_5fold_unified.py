@@ -1,10 +1,3 @@
-"""Unified 5-fold aggregation for Longiseg — pooled all-row averaging.
-
-Same convention as SAM-LoRA / SAM-Med2D / nnUNet:
-  Overall = mean over ALL prompt rows
-  Organ   = mean over rows whose class in {26,27,28}
-  Instr   = mean over rows whose class in {1..25}
-"""
 import os
 import numpy as np
 import pandas as pd
